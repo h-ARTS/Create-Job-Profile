@@ -1,0 +1,15 @@
+html, body {
+    background-color: #EF5252;
+    color: #fff;
+}
+
+div .card {
+    color: #090908;
+    margin: auto;
+    border: none;
+}
+
+.card.red {
+    width: 100%;
+    border: 1px solid #ef5252;
+}
